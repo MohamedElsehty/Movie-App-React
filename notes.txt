@@ -1,0 +1,4 @@
+1. Api from TDMB : url (https://developers.themoviedb.org/)
+2. i'm using the Bootstrap and css.module 
+3. react -router
+4.react-detect-offline
